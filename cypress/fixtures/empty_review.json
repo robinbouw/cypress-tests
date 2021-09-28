@@ -1,0 +1,15 @@
+{
+  "_id":7,
+  "reviews":[],
+  "name":"Smartwatch Clip",
+  "image":"/images/photo-1507679622673-989605832e3d.jpeg",
+  "brand":"Smart",
+  "category":"Electronics",
+  "description":"Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working",
+  "rating":null,
+  "numReviews":0,
+  "price":"125.00",
+  "countInStock":10,
+  "createdAt":"2021-07-16T11:39:02.758072Z",
+  "user":2
+}

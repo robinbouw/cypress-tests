@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "cypress": "^8.3.0",
+    "faker": "^5.5.3"
+  },
+  "scripts": {
+    "test": "cypress run",
+    "cy:open": "cypress open",
+    "test:record": "cypress run --record --key 30f832bf-2660-4cfa-90a1-b69d0ec35ff0"
+  }
+}
